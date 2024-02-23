@@ -30,4 +30,5 @@ body {
     font: bold;
     font-size: 25px;
     text-align: center;
+    background: linear-gradient(30deg, #404040, #606060) fixed;
 }
