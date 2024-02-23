@@ -1,0 +1,33 @@
+td,
+table {
+    border: 1px black solid;
+}
+
+td {
+    padding: 10px;
+}
+
+table {
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.c {
+    background-color: green;
+}
+
+.td {
+    background-color: cyan;
+}
+
+.tp {
+    background-color: orange;
+}
+
+
+body {
+    font-family: sans-serif;
+    font: bold;
+    font-size: 25px;
+    text-align: center;
+}
